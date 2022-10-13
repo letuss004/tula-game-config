@@ -375,11 +375,11 @@
                     "settings": [
                         {
                             "name": "BootsPanelPinned",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ConsumablesPanelPinned",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "CurrentTab",
@@ -387,7 +387,7 @@
                         },
                         {
                             "name": "InventoryPanelPinned",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InvertDisplayOrder",
@@ -1209,7 +1209,7 @@
                         },
                         {
                             "name": "evtUseVisionItemsmart",
-                            "value": "1"
+                            "value": "0"
                         }
                     ]
                 },
